@@ -264,11 +264,8 @@
 ## 폴더정리 
 
 project2/
-
 ├─ design-doc.md
-
 └─ screenshots/
-
    ├─ 01-overall-scenario.png
    ├─ 02-trigger-google-sheets.png
    ├─ 03-router-priority-branch.png
