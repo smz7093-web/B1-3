@@ -43,7 +43,7 @@
 ### 3-1. Google Form 구성
 자동화 테스트를 위해 요청 접수용 Google Form을 만들었다.
 
-- **폼 이름**: `Request Intake Form`
+- **폼 이름**: `시스템 오류 접수 양식`
 
 ### 3-2. Google Form 질문 항목
 
