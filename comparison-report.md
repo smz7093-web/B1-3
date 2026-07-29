@@ -248,6 +248,9 @@ Google Form 응답을 자동 저장하도록 스프레드시트를 연결하였�
       
 - [x] Google Sheets 응답 저장 화면
 - [x] 전체 워크플로우 화면
+
+<img width="500" height="205" alt="Image" src="https://github.com/user-attachments/assets/491f4564-885a-4cb7-9e80-8ba53a339210" />
+
 - [x] 조건 분기 설정 화면
 
 ---
