@@ -94,7 +94,7 @@ Google Form 응답을 자동 저장하도록 스프레드시트를 연결하였�
 - **사용한 Action**:
   - Action 1: Gmail - Send an Email
   - Action 2: Google Sheets - Update a Row
-- **사용한 조건 분기(Filter/Router)**:
+- **사용한 조건 분기(Router)**:
   - Router 사용
   - 분기 A: `Priority = 긴급`
   - 분기 B: `Priority = 일반`
@@ -162,7 +162,7 @@ Google Form 응답을 자동 저장하도록 스프레드시트를 연결하였�
 - Action 1: Paths by Zapier
 - Action 2: Gmail - Send Email
 - Action 3: Google Sheets - Update Spreadsheet Row
-- **사용한 조건 분기(Filter/Paths)**:
+- **사용한 조건 분기(Paths)**:
 - Path A: `Priority = 긴급`
 - Path B: `Priority = 일반`
 
@@ -171,17 +171,14 @@ Google Form 응답을 자동 저장하도록 스프레드시트를 연결하였�
 2. 새 행이 추가되면 Zap이 실행되도록 Trigger를 설정했다.
 3. `Paths by Zapier`를 사용해 `Priority` 값에 따라 긴급/일반 경로를 분기했다.
 4. 각 경로에서 Gmail 액션으로 서로 다른 제목의 이메일을 전송했다.
-5. 마지막으로 해당 응답 행을 업데이트하여 처리 상태를 기록했다.
 
 ### Zap 구성
 1. **Google Sheets - New Spreadsheet Row**
 2. **Paths by Zapier**
  - Path A: Priority = 긴급
    - Gmail - Send Email
-   - Google Sheets - Update Spreadsheet Row
  - Path B: Priority = 일반
    - Gmail - Send Email
-   - Google Sheets - Update Spreadsheet Row
 
 ### Zapier에서 사용한 메시지 예시
 
