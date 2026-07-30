@@ -244,7 +244,7 @@ Google Form 응답을 자동 저장하도록 스프레드시트를 연결하였�
 ### 5-3. 첨부한 캡처 목록
 - [x] Google Form 입력 화면
       
-<img width="292" height="400" alt="Image" src="https://github.com/user-attachments/assets/a5b3eab9-523f-4622-9f51-e48cfc730a1c" />
+<img width="320" height="412" alt="Image" src="https://github.com/user-attachments/assets/e93f0635-8a45-43b1-91c5-7c8eed23b9c9" />
       
 - [x] Google Sheets 응답 저장 화면
 - [x] 전체 워크플로우 화면
